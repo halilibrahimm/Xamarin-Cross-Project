@@ -1,3 +1,3 @@
 # XamarinSimple
 
-simple cross project with C# and XAML
+Simple cross project with C# and XAML
