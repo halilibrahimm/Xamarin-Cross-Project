@@ -1,0 +1,50 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\ali.png" />
+    <None Remove="Images\galip.png" />
+    <None Remove="Images\hakan.png" />
+    <None Remove="Images\halil.png" />
+    <None Remove="Images\ozi.png" />
+    <None Remove="Images\sadi.png" />
+    <None Remove="Images\sadik.png" />
+    <None Remove="Images\sirri.png" />
+    <None Remove="Images\ulvi.png" />
+    <None Remove="Images\veli.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <AdditionalFiles Include="Images\ali.png" />
+    <EmbeddedResource Include="Images\galip.png" />
+    <EmbeddedResource Include="Images\hakan.png" />
+    <EmbeddedResource Include="Images\halil.png" />
+    <EmbeddedResource Include="Images\ozi.png" />
+    <EmbeddedResource Include="Images\sadi.png" />
+    <EmbeddedResource Include="Images\sadik.png" />
+    <EmbeddedResource Include="Images\sirri.png" />
+    <EmbeddedResource Include="Images\ulvi.png" />
+    <EmbeddedResource Include="Images\veli.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="3.0.0.482510" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Views\Detail.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\ListViewOrnek.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\SanalSiniflar.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

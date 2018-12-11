@@ -1,0 +1,9 @@
+C:\Users\ivasalive\Documents\Visual Studio 2017\Projects\XamarinUcuncuHafta\XamarinUcuncuHafta\XamarinUcuncuHafta\bin\Debug\netstandard2.0\XamarinUcuncuHafta.deps.json
+C:\Users\ivasalive\Documents\Visual Studio 2017\Projects\XamarinUcuncuHafta\XamarinUcuncuHafta\XamarinUcuncuHafta\bin\Debug\netstandard2.0\XamarinUcuncuHafta.dll
+C:\Users\ivasalive\Documents\Visual Studio 2017\Projects\XamarinUcuncuHafta\XamarinUcuncuHafta\XamarinUcuncuHafta\bin\Debug\netstandard2.0\XamarinUcuncuHafta.pdb
+C:\Users\ivasalive\Documents\Visual Studio 2017\Projects\XamarinUcuncuHafta\XamarinUcuncuHafta\XamarinUcuncuHafta\obj\Debug\netstandard2.0\XamarinUcuncuHafta.csprojAssemblyReference.cache
+C:\Users\ivasalive\Documents\Visual Studio 2017\Projects\XamarinUcuncuHafta\XamarinUcuncuHafta\XamarinUcuncuHafta\obj\Debug\netstandard2.0\XamarinUcuncuHafta.csproj.CoreCompileInputs.cache
+C:\Users\ivasalive\Documents\Visual Studio 2017\Projects\XamarinUcuncuHafta\XamarinUcuncuHafta\XamarinUcuncuHafta\obj\Debug\netstandard2.0\XamarinUcuncuHafta.AssemblyInfoInputs.cache
+C:\Users\ivasalive\Documents\Visual Studio 2017\Projects\XamarinUcuncuHafta\XamarinUcuncuHafta\XamarinUcuncuHafta\obj\Debug\netstandard2.0\XamarinUcuncuHafta.AssemblyInfo.cs
+C:\Users\ivasalive\Documents\Visual Studio 2017\Projects\XamarinUcuncuHafta\XamarinUcuncuHafta\XamarinUcuncuHafta\obj\Debug\netstandard2.0\XamarinUcuncuHafta.dll
+C:\Users\ivasalive\Documents\Visual Studio 2017\Projects\XamarinUcuncuHafta\XamarinUcuncuHafta\XamarinUcuncuHafta\obj\Debug\netstandard2.0\XamarinUcuncuHafta.pdb
